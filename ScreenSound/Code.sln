@@ -5,9 +5,13 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenSound", "ScreenSound\ScreenSound.csproj", "{314D5CAF-FFD3-4C0E-B516-64EA70E48C96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSoundV2", "..\ScreenSoundV2\ScreenSoundV2.csproj", "{809CD557-E706-42DF-AE3A-BAE77A6483F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenSoundV2", "..\ScreenSoundV2\ScreenSoundV2.csproj", "{809CD557-E706-42DF-AE3A-BAE77A6483F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSoundV3", "..\ScreenSoundV3\ScreenSoundV3.csproj", "{CFC2FA95-68EB-4B0A-A5D6-9F66895E3494}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenSoundV3", "..\ScreenSoundV3\ScreenSoundV3.csproj", "{CFC2FA95-68EB-4B0A-A5D6-9F66895E3494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSoundV4", "..\ScreenSoundV4\ScreenSoundV4.csproj", "{EE0D08E5-F515-4BBA-9853-EE100588BB8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSoundV5", "..\ScreenSoundV5\ScreenSoundV5.csproj", "{DA725FA0-AD49-4CE5-A95F-D751A3F9CFEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{CFC2FA95-68EB-4B0A-A5D6-9F66895E3494}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFC2FA95-68EB-4B0A-A5D6-9F66895E3494}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFC2FA95-68EB-4B0A-A5D6-9F66895E3494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0D08E5-F515-4BBA-9853-EE100588BB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0D08E5-F515-4BBA-9853-EE100588BB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0D08E5-F515-4BBA-9853-EE100588BB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0D08E5-F515-4BBA-9853-EE100588BB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA725FA0-AD49-4CE5-A95F-D751A3F9CFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA725FA0-AD49-4CE5-A95F-D751A3F9CFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA725FA0-AD49-4CE5-A95F-D751A3F9CFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA725FA0-AD49-4CE5-A95F-D751A3F9CFEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
